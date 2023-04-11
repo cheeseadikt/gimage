@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
   }
 }
